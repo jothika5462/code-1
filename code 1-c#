@@ -1,0 +1,18 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+       int age =18;
+   if(age<=18)
+   {
+   Console.WriteLine("MAJOR");
+   }
+   else
+   {
+   Console.WriteLine("MINOR");
+   }
+   }
+}
+ 
